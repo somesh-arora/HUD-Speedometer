@@ -3,7 +3,6 @@
 //  locationSpeed
 //
 //  Created by Somesh Arora on 9/7/17.
-//  Copyright © 2017 St. Jude Medical. All rights reserved.
 //
 
 import UIKit
